@@ -1,0 +1,15 @@
+node_modules/
+.idea/
+cypress/.DS_Store
+.Ds_store
+.DS_Store
+.DS_Store/
+cypress/downloads
+cypress/screenshots
+cypress/videos
+cypress/report
+package-lock.json
+myreport.json
+cypress.env.json
+.prettierignore
+.eslintrc.js
